@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Waste Management - Fill-Level Forecasting
 
 An undergraduate machine learning project focused on forecasting smart waste-bin fill levels using time-series sensor data and deep learning models.
@@ -178,3 +179,10 @@ Potential extensions include:
 - Real-time sensor-data ingestion
 - Model deployment through an API
 - Integration with route-optimization systems for waste collection
+=======
+# Demo_tech
+<br>
+We build reliable and efficient Tech
+<br>
+Author-SKR
+>>>>>>> 398c4e14d8b835b92e81481ba511ff7d96e28739
