@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+tensorflow
+keras
+scikit-learn
+python-dateutil
+pytz
+seaborn
+statsmodels
+plotly
+ipython
+
