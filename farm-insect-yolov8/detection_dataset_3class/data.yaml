@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['Armyworms', 'Brown_Marmorated_Stink_Bugs', 'tomato_hornworms']
+
+roboflow:
+  workspace: insects-tibsl
+  project: insects-vtdmw
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/insects-tibsl/insects-vtdmw/dataset/1
